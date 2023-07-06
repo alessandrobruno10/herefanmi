@@ -41,12 +41,11 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
         margin-right: auto;
     }
 </style>
-<center>
 <table  class = "center"> 
     <tr>
-        <td><img src="./assests/logo.png" alt="drawing" style="width:150px;"/></td>
-        <td><img src="./assests/logo.png" alt="drawing" style="width:150px;"/></td>
-        <td><img src="./assests/logo.png" alt="drawing" style="width:150px;"/></td>
+        <td><img src="./assests/logo.png" alt="drawing" style="width:200px;"/></td>
+        <td><img src="./assests/logo.png" alt="drawing" style="width:200px;"/></td>
+        <td><img src="./assests/logo.png" alt="drawing" style="width:200px;"/></td>
     </tr>
     <tr>
         <td>Aladine Chetouani</td>
@@ -54,12 +53,12 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
         <td>Pier-Luigie Mazzeo</td>
     </tr>
 </table>
-</center>
+
 
 <table class = "center" > 
         <tr>
-        <td><img src="./assests/logo.png" alt="drawing" style="width:150px;"/></td>
-        <td><img src="./assests/logo.png" alt="drawing" style="width:150px;"/></td>
+        <td><img src="./assests/logo.png" alt="drawing" style="width:200px;"/></td>
+        <td><img src="./assests/logo.png" alt="drawing" style="width:200px;"/></td>
     </tr>
     <tr>
         <td>Mohamed Amine KERKOURI</td>
