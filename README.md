@@ -45,18 +45,21 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
     <tr>
         <td style ="text-align: center; vertical-align: middle">    
             Aladine Chetouani <br>
+            Research inversigator <br>
             <a href="https://www.linkedin.com/in/aladine-chetouani-2aa66038/">
                 <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="icon | LinkedIn" />
             </a>
         </td>
         <td style ="text-align: center; vertical-align: middle">    
             Alessandro Bruno <br>
+            Head Coordinator<br>
             <a href="https://www.linkedin.com/in/alessandrobrun0/">
                 <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="icon | LinkedIn" />
             </a>
         </td>
         <td style ="text-align: center; vertical-align: middle">    
             Pier-Luigie Mazzeo <br>
+            Research inversigator <br>
             <a href="https://www.linkedin.com/in/pmazzeo/">
                 <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="icon | LinkedIn" />
             </a>
@@ -73,12 +76,14 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
     <tr>
         <td style ="text-align: center; vertical-align: middle">    
             Mohamed Amine KERKOURI <br>
+            AI Researcher, Web Dev, Communication<br>
             <a href="https://www.linkedin.com/in/mohamed-amine-kerkouri/">
                 <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="icon | LinkedIn" />
             </a>
         </td>
         <td style ="text-align: center; vertical-align: middle">    
             Marouane Tliba <br>
+            AI Researcher, DevOps, Communication<br>
             <a href="https://www.linkedin.com/in/mtliba/">
                 <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="icon | LinkedIn" />
             </a>
