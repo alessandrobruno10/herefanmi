@@ -43,7 +43,7 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
 </style>
 <table  class = "center"> 
     <tr>
-        <td><img src="./assests/team/99731c19-d8f1-4bd0-8daf-7fb6c7b1cb26.jpeg" alt="drawing" style="width:200px;"/></td>
+        <td><img src="./assests/team/aladine/jpeg" alt="drawing" style="width:200px;"/></td>
         <td><img src="./assests/logo.png" alt="drawing" style="width:200px;"/></td>
         <td><img src="./assests/logo.png" alt="drawing" style="width:200px;"/></td>
     </tr>
