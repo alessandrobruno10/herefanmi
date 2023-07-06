@@ -43,9 +43,9 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
         <td><img src="./assests/logo.png" alt="drawing" style="width:30px;"/></td>
     </tr>
     <tr>
-        <td>AAAAAA</td>
-        <td>BBBBB</td>
-        <td>CCCCC</td>
+        <td>Aladine Chetouani</td>
+        <td>Alessadro Bruno</td>
+        <td>Pier-Luigie Mazzeo</td>
     </tr>
 </table>
 
@@ -55,7 +55,7 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
         <td><img src="./assests/logo.png" alt="drawing" style="width:30px;"/></td>
     </tr>
     <tr>
-        <td>AAAAAA</td>
-        <td>CCCCC</td>
+        <td>Mohamed Amine KERKOURI</td>
+        <td>Marouane Tliba</td>
     </tr>
 </table>
