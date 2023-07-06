@@ -44,21 +44,21 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
     </tr>
     <tr>
         <td style ="text-align: center; vertical-align: middle">    
-            Aladine Chetouani <br>
+            <b>Aladine Chetouani</b> <br>
             Research inversigator <br>
             <a href="https://www.linkedin.com/in/aladine-chetouani-2aa66038/">
                 <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="icon | LinkedIn" />
             </a>
         </td>
         <td style ="text-align: center; vertical-align: middle">    
-            Alessandro Bruno <br>
+            <b>Alessandro Bruno</b> <br>
             Head Coordinator<br>
             <a href="https://www.linkedin.com/in/alessandrobrun0/">
                 <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="icon | LinkedIn" />
             </a>
         </td>
         <td style ="text-align: center; vertical-align: middle">    
-            Pier-Luigie Mazzeo <br>
+            <b>Pier-Luigie Mazzeo</b> <br>
             Research inversigator <br>
             <a href="https://www.linkedin.com/in/pmazzeo/">
                 <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="icon | LinkedIn" />
@@ -82,7 +82,7 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
             </a>
         </td>
         <td style ="text-align: center; vertical-align: middle">    
-            Marouane Tliba <br>
+            <b>Marouane Tliba</b> <br>
             AI Researcher, DevOps, <br> Communication<br>
             <a href="https://www.linkedin.com/in/mtliba/">
                 <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="icon | LinkedIn" />
