@@ -38,7 +38,7 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <table  class = "center"> 
     <tr>
-        <td><img src="./assests/team/aladine.jpeg" alt="drawing" style="width:200px;"/></td>
+        <td><img src="./assests/team/aladine.jpeg" alt="drawing" style="width:200px;height:200px;"/></td>
         <td><img src="./assests/team/alessandro.jpeg" alt="drawing" style="width:200px;"/></td>
         <td><img src="./assests/team/Pier-luigie.jpeg" alt="drawing" style="width:200px;"/></td>
     </tr>
