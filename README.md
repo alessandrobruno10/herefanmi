@@ -43,7 +43,7 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
         <td><img src="./assests/team/Pier-luigie.jpeg" alt="drawing" style="width:200px;"/></td>
     </tr>
     <tr>
-        <td aligne ="center">    Aladine Chetouani <br>
+        <td style ="  text-align: center; vertical-align: middle;">    Aladine Chetouani <br>
             <a href="#">
                 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="icon | LinkedIn" />
             </a>
