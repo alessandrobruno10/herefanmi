@@ -71,7 +71,17 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
         <td><img src="./assests/team/marouane.jpeg" alt="drawing" style="width:200px;"/></td>
     </tr>
     <tr>
-        <td>Mohamed Amine KERKOURI <a href="#" class="fa fa-linkedin"></a></td>
-        <td>Marouane Tliba <a href="#" class="fa fa-linkedin"></a></td>
+        <td style ="text-align: center; vertical-align: middle">    
+            Mohamed Amine KERKOURI <br>
+            <a href="#">
+                <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="icon | LinkedIn" />
+            </a>
+        </td>
+        <td style ="text-align: center; vertical-align: middle">    
+            Marouane Tliba <br>
+            <a href="#">
+                <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="icon | LinkedIn" />
+            </a>
+        </td>
     </tr>
 </table>
