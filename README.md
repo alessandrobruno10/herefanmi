@@ -44,7 +44,7 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
     </tr>
     <tr>
         <td>Aladine Chetouani <a href="#" class="fa fa-linkedin"></a></td>
-        <td>Alessadro Bruno <a href="#" class="fa fa-linkedin"></a></td>
+        <td>Alessandro Bruno <a href="#" class="fa fa-linkedin"></a></td>
         <td>Pier-Luigie Mazzeo <a href="#" class="fa fa-linkedin"></a></td>
     </tr>
 </table>
