@@ -76,14 +76,14 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
     <tr>
         <td style ="text-align: center; vertical-align: middle">    
             Mohamed Amine KERKOURI <br>
-            AI Researcher, Web Dev, &nbsp Communication<br>
+            AI Researcher, Web Dev, &bsp Communication<br>
             <a href="https://www.linkedin.com/in/mohamed-amine-kerkouri/">
                 <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="icon | LinkedIn" />
             </a>
         </td>
         <td style ="text-align: center; vertical-align: middle">    
             Marouane Tliba <br>
-            AI Researcher, DevOps, &nbsp Communication<br>
+            AI Researcher, DevOps, &bsp Communication<br>
             <a href="https://www.linkedin.com/in/mtliba/">
                 <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="icon | LinkedIn" />
             </a>
