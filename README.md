@@ -36,4 +36,12 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
 ## Team Members 
 
 
-
+<table> 
+    <tr>
+        <td><img src="./assests/logo.png" alt="drawing" style="width:30px;"/></td>
+        <td><img src="./assests/logo.png" alt="drawing" style="width:30px;"/></td>
+        <td><img src="./assests/logo.png" alt="drawing" style="width:30px;"/></td>
+    </tr>
+    <tr>
+    </tr>
+</table>
