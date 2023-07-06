@@ -35,12 +35,7 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
 
 ## Team Members 
 
-<style>
-    table.center {
-        margin-left: auto;
-        margin-right: auto;
-    }
-</style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <table  class = "center"> 
     <tr>
         <td><img src="./assests/team/aladine.jpeg" alt="drawing" style="width:200px;"/></td>
@@ -48,9 +43,9 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
         <td><img src="./assests/team/Pier-luigie.jpeg" alt="drawing" style="width:200px;"/></td>
     </tr>
     <tr>
-        <td>Aladine Chetouani</td>
-        <td>Alessadro Bruno</td>
-        <td>Pier-Luigie Mazzeo</td>
+        <td>Aladine Chetouani <a href="#" class="fa fa-linkedin"></a></td>
+        <td>Alessadro Bruno <a href="#" class="fa fa-linkedin"></a></td>
+        <td>Pier-Luigie Mazzeo <a href="#" class="fa fa-linkedin"></a></td>
     </tr>
 </table>
 
@@ -61,7 +56,7 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
         <td><img src="./assests/team/marouane.jpeg" alt="drawing" style="width:200px;"/></td>
     </tr>
     <tr>
-        <td>Mohamed Amine KERKOURI</td>
-        <td>Marouane Tliba</td>
+        <td>Mohamed Amine KERKOURI <a href="#" class="fa fa-linkedin"></a></td>
+        <td>Marouane Tliba <a href="#" class="fa fa-linkedin"></a></td>
     </tr>
 </table>
