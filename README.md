@@ -43,7 +43,7 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
         <td><img src="./assests/team/Pier-luigie.jpeg" alt="drawing" style="width:200px;"/></td>
     </tr>
     <tr>
-        <td>Aladine Chetouani <a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg"  alt="icon | LinkedIn" width="21px"/></a></a></td>
+        <td>Aladine Chetouani <a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="icon | LinkedIn" width="21px"/></a></a></td>
         <td>Alessandro Bruno <a href="#" class="fa fa-linkedin"></a></td>
         <td>Pier-Luigie Mazzeo <a href="#" class="fa fa-linkedin"></a></td>
     </tr>
