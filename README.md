@@ -35,27 +35,28 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
 
 ## Team Members 
 
-
-<table  aligne = "center"> 
-    <tr>
-        <td><img src="./assests/logo.png" alt="drawing" style="width:150px;"/></td>
-        <td><img src="./assests/logo.png" alt="drawing" style="width:150px;"/></td>
-        <td><img src="./assests/logo.png" alt="drawing" style="width:150px;"/></td>
-    </tr>
-    <tr>
-        <td>Aladine Chetouani</td>
-        <td>Alessadro Bruno</td>
-        <td>Pier-Luigie Mazzeo</td>
-    </tr>
-</table>
-
-<table> 
+<div style="top:50%;left:50%;">
+    <table  aligne = "center"> 
         <tr>
-        <td><img src="./assests/logo.png" alt="drawing" style="width:150px;"/></td>
-        <td><img src="./assests/logo.png" alt="drawing" style="width:150px;"/></td>
-    </tr>
-    <tr>
-        <td>Mohamed Amine KERKOURI</td>
-        <td>Marouane Tliba</td>
-    </tr>
-</table>
+            <td><img src="./assests/logo.png" alt="drawing" style="width:150px;"/></td>
+            <td><img src="./assests/logo.png" alt="drawing" style="width:150px;"/></td>
+            <td><img src="./assests/logo.png" alt="drawing" style="width:150px;"/></td>
+        </tr>
+        <tr>
+            <td>Aladine Chetouani</td>
+            <td>Alessadro Bruno</td>
+            <td>Pier-Luigie Mazzeo</td>
+        </tr>
+    </table>
+
+    <table> 
+            <tr>
+            <td><img src="./assests/logo.png" alt="drawing" style="width:150px;"/></td>
+            <td><img src="./assests/logo.png" alt="drawing" style="width:150px;"/></td>
+        </tr>
+        <tr>
+            <td>Mohamed Amine KERKOURI</td>
+            <td>Marouane Tliba</td>
+        </tr>
+    </table>
+</div>
