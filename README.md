@@ -47,21 +47,21 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
             <b>Aladine Chetouani</b> <br>
             Research inversigator <br>
             <a href="https://www.linkedin.com/in/aladine-chetouani-2aa66038/">
-                <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="icon | LinkedIn" />
+                <img  src="https://github.com/yushi1007/yushi1007/blob/main/images/linkedin.png"  alt="icon | LinkedIn" width="20px" />
             </a>
         </td>
         <td style ="text-align: center; vertical-align: middle">    
             <b>Alessandro Bruno</b> <br>
             Head Coordinator<br>
             <a href="https://www.linkedin.com/in/alessandrobrun0/">
-                <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="icon | LinkedIn" />
+                <img  src="https://github.com/yushi1007/yushi1007/blob/main/images/linkedin.png"  alt="icon | LinkedIn" width="20px" />
             </a>
         </td>
         <td style ="text-align: center; vertical-align: middle">    
             <b>Pier-Luigie Mazzeo</b> <br>
             Research inversigator <br>
             <a href="https://www.linkedin.com/in/pmazzeo/">
-                <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="icon | LinkedIn" />
+                <img  src="https://github.com/yushi1007/yushi1007/blob/main/images/linkedin.png"  alt="icon | LinkedIn" width="20px" />
             </a>
         </td>
     </tr>
@@ -85,7 +85,7 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
             <b>Marouane Tliba</b> <br>
             AI Researcher, DevOps, <br> Communication<br>
             <a href="https://www.linkedin.com/in/mtliba/">
-                <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="icon | LinkedIn" />
+                <img  src="https://github.com/yushi1007/yushi1007/blob/main/images/linkedin.png"  alt="icon | LinkedIn" width="20px" />
             </a>
         </td>
     </tr>
