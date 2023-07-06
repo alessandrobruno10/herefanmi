@@ -81,7 +81,7 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
                 <img  src="https://github.com/yushi1007/yushi1007/blob/main/images/linkedin.png"  alt="icon | LinkedIn" width="20px" />
             </a>
             <a href="https://www.linkedin.com/in/mohamed-amine-kerkouri/">
-                <img  src="https://user-images.githubusercontent.com/511683/28757557-f82cff1a-7585-11e7-9317-072a838dcca3.png"  alt="icon | LinkedIn" width="20px" />
+                <img  src="https://user-images.githubusercontent.com/511683/28757557-f82cff1a-7585-11e7-9317-072a838dcca3.png"  alt="icon | LinkedIn" width="30px" />
             </a>
         </td>
         <td style ="text-align: center; vertical-align: middle">    
