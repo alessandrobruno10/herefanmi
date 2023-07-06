@@ -23,3 +23,15 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
 - Develop an autonomous system equipped with continual learning capabilities.
 - Leverage cutting-edge machine learning algorithms to provide individuals with an automated and reliable solution.
 - Harness the power of technology to enhance overall societal well-being and improve public health outcomes.
+
+## Ethical Charter
+
+- **Respect for Privacy**: HeRe-FaNMi is committed to upholding the privacy rights of individuals in accordance with European laws, such as the General Data Protection Regulation (GDPR). Personal data collected during the operation of the system will be handled securely and in compliance with applicable data protection regulations.
+- **Transparency and Accountability**: HeRe-FaNMi will strive for transparency in its operations and decision-making processes. The project will provide clear and understandable information about its purpose, functionality, and data usage.
+- **Bias and Fairness**: HeRe-FaNMi will aim to mitigate bias and ensure fairness in its algorithms and decision-making processes. The project will continually assess and address any biases that may arise, working towards equitable outcomes and avoiding discrimination or unfair treatment of individuals or groups.
+
+
+---
+
+
+
