@@ -12,10 +12,14 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
 
 ## Our mission
 
+### Social goals 
+
 - Combat the propagation of fake news within health-related information.
 - Restore trustworthiness to the internet community.
 - Recognize the severe consequences of misinformation, including promoting ineffective remedies, downplaying risks, and eroding public confidence in scientific research.
+- Safeguard individuals against misinformation while promoting the dissemination of accurate health information.
+
+### Technological
 - Develop an autonomous system equipped with continual learning capabilities.
 - Leverage cutting-edge machine learning algorithms to provide individuals with an automated and reliable solution.
-- Safeguard individuals against misinformation while promoting the dissemination of accurate health information.
 - Harness the power of technology to enhance overall societal well-being and improve public health outcomes.
