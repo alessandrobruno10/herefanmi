@@ -19,7 +19,7 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
 - Recognize the severe consequences of misinformation, including promoting ineffective remedies, downplaying risks, and eroding public confidence in scientific research.
 - Safeguard individuals against misinformation while promoting the dissemination of accurate health information.
 
-### Technological
+### Technological goals
 - Develop an autonomous system equipped with continual learning capabilities.
 - Leverage cutting-edge machine learning algorithms to provide individuals with an automated and reliable solution.
 - Harness the power of technology to enhance overall societal well-being and improve public health outcomes.
