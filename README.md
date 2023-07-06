@@ -75,7 +75,7 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
     </tr>
     <tr>
         <td style ="text-align: center; vertical-align: middle">    
-            Mohamed Amine KERKOURI <br>
+            <b>Mohamed Amine KERKOURI</b> <br>
             AI Researcher, Web Dev, <br> Communication<br>
             <a href="https://www.linkedin.com/in/mohamed-amine-kerkouri/">
                 <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="icon | LinkedIn" />
