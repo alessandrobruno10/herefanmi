@@ -105,3 +105,17 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
         </td>
     </tr>
 </table>
+
+
+
+```bibtex
+@misc{HeReFaNMI,
+  author       = {Alessandro Bruno and Aladine Chetouani and Pier Luigi Mazzeo and Mohamed Amine Kerkouri and Marouane Tliba and Hamdi Abderrehmen and Walid Taib and Abdelali Ichou and Idris Saadallah},
+  title        = {HeReFaNMI: Health-related Fake News Mitigation Platform},
+  howpublished = {\url{https://ai-text-validator.vercel.app/}},
+  year         = {2024},
+  note         = {Funded by NGI Search (Next Generation Internet Discovery and Search)},
+  url          = {https://github.com/alessandrobruno10/herefanmi}
+}
+```
+
