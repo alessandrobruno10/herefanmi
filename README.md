@@ -108,6 +108,8 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
 
 
 
+---
+
 ```bibtex
 @misc{HeReFaNMI,
   author       = {Alessandro Bruno and Aladine Chetouani and Pier Luigi Mazzeo and Mohamed Amine Kerkouri and Marouane Tliba and Hamdi Abderrehmen and Walid Taib and Abdelali Ichou and Idris Saadallah},
