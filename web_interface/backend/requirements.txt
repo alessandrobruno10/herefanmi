@@ -1,6 +1,0 @@
-flask==2.2.5
-openai==1.11.1
-flask-cors
-firebase_admin
-
-

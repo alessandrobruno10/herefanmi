@@ -1,1 +1,0 @@
-# ai-text-validator-backend
