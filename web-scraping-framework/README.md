@@ -68,6 +68,15 @@ This section  list frameworks/libraries used to bootstrap the automatic web scra
 * [![MongoDB][MongoDB]][MongoDB-url]
 * [![BeautifulSoup][BeautifulSoup]][BeautifulSoup-url]
 
+## Data Collection and Availability 🚀
+
+As part of the HeReFaNMi project, we have successfully collected an extensive dataset of around **800,000 data points** related to healthcare news using our automatic web scraping framework. This dataset is aimed at improving the system's ability to distinguish between fake and real healthcare news through continuous learning.
+
+The collected dataset is **publicly available** and can be accessed via the following [link](https://github.com/Walid-Taib/web-scraping-framework/blob/main/dataset.pdf). We encourage the community to explore and utilize the dataset for further research and advancements in mitigating health-related fake news.
+
+<p align="center">
+  <img src="https://github.com/Walid-Taib/web-scraping-framework/blob/main/NGISearch_Sticler.png" width="200" height="200" />
+</p>
 
 
 
