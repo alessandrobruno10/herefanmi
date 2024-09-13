@@ -30,6 +30,9 @@ At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the c
 - **Transparency and Accountability**: HeRe-FaNMi will strive for transparency in its operations and decision-making processes. The project will provide clear and understandable information about its purpose, functionality, and data usage.
 - **Bias and Fairness**: HeRe-FaNMi will aim to mitigate bias and ensure fairness in its algorithms and decision-making processes. The project will continually assess and address any biases that may arise, working towards equitable outcomes and avoiding discrimination or unfair treatment of individuals or groups.
 
+## Dataset 
+A link to our fine-tuned model for classifying Health-related Fake and Trustworthy News articles is given down below: 
+https://huggingface.co/a-hamdi/NGILlama3-merged
 
 ---
 
