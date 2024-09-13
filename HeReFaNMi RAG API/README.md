@@ -23,15 +23,10 @@ The API is modular, ensuring separation of concerns between retrieval, generatio
 
 ```plaintext
 rag-api/
-├── Backend/                   # Backend logic for data retrieval and generation
-|    ├── retriever.py          # Handles document retrieval from external sources
+├── Server/                   # Backend logic for data retrieval and generation
+|    ├── server.py          # Handles document retrieval from external sources
 |    ├── generator.py          # Manages text generation using the RAG model
-|    ├── server.py             # Hosts the Flask API and manages incoming requests
-|    └── api/
-|         └── rag_api.py       # Main API endpoints for RAG interactions
-└── models/                    # Contains model definitions and training scripts
-     ├── rag_model.py          # RAG model architecture
-     └── training.py           # Script for fine-tuning the model on new data
+└─   └── server.py             # Hosts the Flask API and manages incoming requests
 
 ```
 ## Built With
@@ -47,8 +42,10 @@ To run the API locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/rag-api.git
-    cd rag-api
+    git clone https://github.com/alessandrobruno10//herefanmi/edit/main/HeReFaNMi
+    cd HeReFaNMi
+    cd HeReFaNMi RAG API
+
     ```
 
 2. Set up the backend:
@@ -62,7 +59,7 @@ To run the API locally, follow these steps:
    Either download a pre-trained RAG model or fine-tune one using the provided scripts in the `models/` directory.
 
 ## Running the API
-To start the API server, run the following command from the `Backend/` directory:
+To start the API server, run the following command from the `Server/` directory:
 bash
 python server.py
 
@@ -77,7 +74,7 @@ The RAG API exposes the following key endpoints:
 - **Request Body:**
     ```json
     {
-      "query": "What are the symptoms of COVID-19?"
+      "query": "Is cancer good?"
     }
     ```
 - **Response:**
@@ -86,74 +83,33 @@ The RAG API exposes the following key endpoints:
       "retrieved_documents": [
         {
           "source": "CDC",
-          "text": "The symptoms of COVID-19 include..."
+          "text": "...."
         },
         {
           "source": "NHS",
-          "text": "COVID-19 symptoms may present as..."
+          "text": ",..."
         }
       ]
     }
     ```
 
-### POST /api/generate
-- **Description:** Generates a response using retrieved documents.
-- **Request Body:**
-    ```json
-    {
-      "query": "What are the symptoms of COVID-19?",
-      "retrieved_documents": [
-        {
-          "source": "CDC",
-          "text": "The symptoms of COVID-19 include..."
-        },
-        {
-          "source": "NHS",
-          "text": "COVID-19 symptoms may present as..."
-        }
-      ]
-    }
-    ```
-- **Response:**
-    ```json
-    {
-      "generated_response": "According to the CDC and NHS, COVID-19 symptoms include fever, cough, and shortness of breath."
-    }
-    ```
 
-### POST /api/detect_fake_news
-- **Description:** Detects whether a query contains misinformation.
-- **Request Body:**
-    ```json
-    {
-      "query": "Drinking bleach cures COVID-19."
-    }
-    ```
-- **Response:**
-    ```json
-    {
-      "is_fake_news": true,
-      "confidence_score": 0.97
-    }
-    ```
 
 ## How It Works
 - **Document Retrieval:** The `/api/retrieve` endpoint fetches relevant documents from reliable health sources based on the input query.
-- **Answer Generation:** The `/api/generate` endpoint combines retrieved documents with a pre-trained model to generate a coherent and factually accurate response.
-- **Fake News Detection:** The `/api/detect_fake_news` endpoint classifies the input query and assesses the likelihood of it being fake news.
-
 ## Contributions
 We welcome contributions from the community! Whether it's improving retrieval methods, enhancing model accuracy, or fixing bugs, feel free to submit a pull request.
 
 ## Authors 🚀
 The HeReFaNMi RAG API was developed by:
 
-- Walid Taib
-- Marouane Tliba
-- Mohamed Amine Kerkouri
+
 - Bruno Alessandro
 - Aladine Chetouani
 - Pierluigi Mazzeo
+- Walid Taib
+- Marouane Tliba
+- Mohamed Amine Kerkouri
 
 For inquiries or feedback, please open an issue in this repository.
 
