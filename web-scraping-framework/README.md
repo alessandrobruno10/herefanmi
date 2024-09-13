@@ -74,10 +74,6 @@ As part of the HeReFaNMi project, we have successfully collected an extensive da
 
 The collected dataset is **publicly available** and can be accessed via the following [link](https://github.com/Walid-Taib/web-scraping-framework/blob/main/dataset.pdf). We encourage the community to explore and utilize the dataset for further research and advancements in mitigating health-related fake news.
 
-<p align="center">
-  <img src="https://github.com/Walid-Taib/web-scraping-framework/blob/main/NGISearch_Sticler.png" width="200" height="200" />
-</p>
-
 
 
 
