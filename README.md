@@ -10,6 +10,12 @@ HeRe-FaNMi (Health-related Fake News Monitoring) stands at the forefront of tack
 
 At its core, HeRe-FaNMi aims to develop an autonomous system equipped with the capacity for continual learning, leveraging advanced Natural Language Processing (NLP) techniques to discriminate between genuine and deceptive medical news effectively. Utilizing cutting-edge machine learning algorithms, HeRe-FaNMi endeavors to provide individuals with an automated and reliable solution that safeguards them against misinformation while concurrently promoting the dissemination of accurate health information. By harnessing the power of technology, HeRe-FaNMi aspires to contribute to the enhancement of overall societal well-being and public health outcomes.
 
+---
+## Design 
+
+<img src="./assests/system.png" alt="system" />
+
+
 ## Our mission
 
 ### Social goals 
