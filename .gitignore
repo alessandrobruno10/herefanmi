@@ -1,0 +1,26 @@
+web_interface/backend/.env
+web_interface/backend/first-firebase-7e1ee-firebase-adminsdk-qbinv-48afa71695.json
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+web_interface/frontend/node_modules
+web_interface/frontend/.pnp
+.pnp.js
+
+# testing
+web_interface/frontend/coverage
+
+# production
+web_interface/frontend/build
+
+# misc
+web_interface/frontend/.DS_Store
+web_interface/frontend/.env.local
+web_interface/frontend/.env.development.local
+web_interface/frontend/.env.test.local
+web_interface/frontend/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

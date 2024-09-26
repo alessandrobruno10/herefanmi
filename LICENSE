@@ -1,0 +1,63 @@
+GNU AFFERO GENERAL PUBLIC LICENSE
+Version 3, 19 November 2007
+
+Copyright (C) [2024] [HeReFaNMi Project]
+
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+### Preamble
+
+The GNU Affero General Public License is a free, copyleft license for software and other kinds of works, specifically designed to ensure cooperation with the community in the case of network server software.
+
+The licenses for most software and other practical works are designed to take away your freedom to share and change the works. By contrast, our General Public Licenses are intended to guarantee your freedom to share and change all versions of a program--to make sure it remains free software for all its users.
+
+When we speak of free software, we are referring to freedom, not price. Our General Public Licenses are designed to make sure that you have the freedom to distribute copies of free software (and charge for them if you wish), that you receive source code or can get it if you want it, that you can change the software or use pieces of it in new free programs, and that you know you can do these things.
+
+Developers that use our General Public Licenses protect your rights with two steps: (1) assert copyright on the software, and (2) offer you this License giving you legal permission to copy, distribute and/or modify it.
+
+Additionally, for datasets, the GNU Affero General Public License guarantees that datasets shared alongside the software are also available to the public for use, modification, and redistribution. This ensures that both software and the datasets are freely usable and accessible to all, subject to the terms outlined in this license.
+
+A secondary benefit of defending all users' freedom is that improvements made in alternate versions of the program, if they receive widespread use, become available for other developers to incorporate. Many developers of free software are heartened and encouraged by the resulting cooperation.
+
+To protect your rights, we need to prevent others from denying you these rights or asking you to surrender the rights. Therefore, you have certain responsibilities if you distribute copies of the software and dataset, or if you modify it.
+
+For example, if you distribute copies of such a program, whether gratis or for a fee, you must pass on to the recipients the same freedoms that you received. You must make sure that they, too, receive or can get the source code and datasets. And you must show them these terms so they know their rights.
+
+### TERMS AND CONDITIONS
+
+#### 0. Definitions.
+
+"This License" refers to version 3 of the GNU Affero General Public License.
+
+"Program" refers to both the software and associated datasets licensed under this License.
+
+"You" (or "your") means an individual or legal entity exercising permissions granted by this License.
+
+"Dataset" refers to any structured collection of data provided in this repository for use with the Program.
+
+To "convey" a work means any kind of propagation that enables other parties to make or receive copies, including the software and/or datasets.
+
+#### 1. Grant of License for Software and Dataset.
+
+The Program and Dataset are licensed under the AGPLv3 license. This means that:
+
+1. You may use, modify, and distribute the Program and Dataset, provided that you follow the terms of this License.
+2. You must include a copy of this License with every distribution of the Program and Dataset.
+3. You must provide access to the source code of the Program and the original or modified version of the Dataset when you convey the Program to third parties.
+
+#### 2. Availability of Source Code and Dataset.
+
+If you modify the Program or Dataset and run it on a server, you must also make the source code of the modified Program and the modified Dataset available to the users of that server. You must provide instructions on how to obtain both the Program and Dataset, either by linking to the source directly or embedding it within the repository.
+
+#### 3. No Warranty.
+
+The Program and Dataset are provided "as is", without warranty of any kind. To the extent permitted by applicable law, neither the original authors nor contributors of the Program and Dataset are liable for any damages arising from its use.
+
+#### 4. Conclusion.
+
+You are encouraged to share your improvements with the community, and any contributions to the Program and Dataset are welcome. By distributing modifications under this License, you help ensure that the Program and Dataset remain free and open for future users and contributors.
+
+This is a human-readable summary of the AGPLv3 License. The full terms and conditions of the GNU Affero General Public License can be found below.
+
+https://www.gnu.org/licenses/agpl-3.0.en.html
